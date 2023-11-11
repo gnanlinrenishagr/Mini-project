@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "miniproject93f2a8f6": {}
+      },
+      "api": {
+        "miniproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
